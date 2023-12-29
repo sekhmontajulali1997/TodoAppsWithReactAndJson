@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "tittle": "hello",
+      "type": "Complated",
+      "id": 1
+    },
+    {
+      "tittle": "wsdwd",
+      "type": "Deleted",
+      "id": 2
+    },
+    {
+      "tittle": "wsdwd",
+      "type": "Deleted",
+      "id": 3
+    },
+    {
+      "tittle": "wsdwd",
+      "type": "Deleted",
+      "id": 4
+    },
+    {
+      "tittle": "wsdwd",
+      "type": "Deleted",
+      "id": 5
+    },
+    {
+      "tittle": "wsdwd",
+      "type": "Deleted",
+      "id": 6
+    },
+    {
+      "tittle": "gtrr",
+      "type": "Pending",
+      "id": 7
+    }
+  ]
+}
